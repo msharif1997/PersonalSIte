@@ -1,0 +1,42 @@
+/* Newsletter */
+
+.Newsletter_container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+  }
+
+#newsletter{
+    padding:15px;
+    color:#ffffff;
+    background:#35424a
+  }
+  
+  #newsletter h1{
+    float:left;
+  }
+  
+  #newsletter h2{
+    float:right;
+    padding-top: 20px;
+    // margin-top:20px;
+  }
+
+  /* Boxes */
+#boxes{
+    margin-top:20px;
+    background-color:rgb(192,192,192);
+  }
+  
+  #boxes .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+    
+  }
+  
+  #boxes .box img{
+    width:90px;
+  }
+
